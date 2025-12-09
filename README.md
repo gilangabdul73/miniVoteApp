@@ -1,2 +1,2 @@
-# MiniVoteApp
-Mini Voting Class Project with C Programming Language application applied stack function and saving with file *.txt (this repo is from student repository from 2 years ago)
+# MiniVotingClass
+Mini Voting Class Project with C Programming Language application for stack and saving with file *.txt
